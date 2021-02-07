@@ -1,4 +1,4 @@
-# heart_failure_sklearn
+# Heart Failure Sklearn
 
 Data taken from https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
